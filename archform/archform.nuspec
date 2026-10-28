@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>archform</id>
+    <version>2.7.2</version>
+    <title>ArchForm Standard</title>
+    <authors>ArchForm</authors>
+    <owners>Community Maintainer</owners>
+    <projectUrl>https://archform.com</projectUrl>
+    <iconUrl>https://pbs.twimg.com/profile_images/1490870712298442752/gzYcBj4R_400x400.png</iconUrl>
+    <licenseUrl>https://www.archform.com/privacy</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Professional Orthodontic Design</description>
+    <summary>Professional Orthodontic Design software.</summary>
+    <tags>archform orthodontics dental design standard</tags>
+    <packageSourceUrl>https://github.com/af-community-maintainer/chocolatey-af</packageSourceUrl>
+    <docsUrl>https://support.archform.com</docsUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
